@@ -13,3 +13,8 @@ See the requirements at its same directory: [INET 4021_001 Lab 1.pdf](https://gi
 This lab uses Tomcat application server along with JSP and Servlets.
 
 See the requirements at its same directory: [INET 4021_001 Lab 2.pdf](https://github.com/WileyBui/INET4021Labs/blob/master/Lab2/INET%204021_001%20Lab%202.pdf)
+
+
+### Authors
+- Wiley Bui [WileyBui](https://github.com/wileybui)
+- August Eggers [GusEggers](https://github.com/guseggers)
