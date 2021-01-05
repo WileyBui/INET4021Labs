@@ -16,5 +16,5 @@ See the requirements at its same directory: [INET 4021_001 Lab 2.pdf](https://gi
 
 
 ### Authors
-- Wiley Bui [WileyBui](https://github.com/wileybui)
-- August Eggers [GusEggers](https://github.com/guseggers)
+- [Wiley Bui](https://github.com/wileybui)
+- [August Eggers](https://github.com/guseggers)
